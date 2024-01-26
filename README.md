@@ -9,7 +9,7 @@ Hi 👋 My name is Jonatthan Medalla
 tambien conocido en redes como TryH4rdCode
 ------------------------------------------
 
-Soy un estudiante de segundo año de Ingeniería en Informática y todos los días estoy aprendiendo algo nuevo
+Soy un estudiante de segundo año de Ingeniería en Informática y siempre me encontraras en las redes, donde todos los días estoy aprendiendo algo nuevo.
 
 * 🌍  I'm based in Santiago de Chile
 * ✉️  You can contact me at [jonatthan.medalla@gmail.com](mailto:jonatthan.medalla@gmail.com)
